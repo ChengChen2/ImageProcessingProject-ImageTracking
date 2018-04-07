@@ -1,3 +1,11 @@
+#########################################################
+#                                                       #
+#  Title: Image Tracking                                #
+#  Author: Cheng Chen                                   #
+#  Date: 25/03/2017                                     #
+#                                                       #
+#########################################################
+
 # import the necessary packages:
 import numpy as np
 import time
